@@ -1,0 +1,4 @@
+Get "alexa.com": unsupported protocol scheme ""
+0.78s    33470  https://godoc.org
+0.78s    64029  https://golang.org
+1.00s     4154  http://gopl.io
